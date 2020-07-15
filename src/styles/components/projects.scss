@@ -23,7 +23,7 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  column-gap: 15%;
+  column-gap: 5%;
   row-gap: 5rem;
   @media (max-width: 112.5rem) {
    width: 80%;
@@ -31,11 +31,8 @@
   @media (max-width: 87.5rem) {
     width: 90%;
   }
-  @media (max-width: 50rem) {
+  @media (max-width: 57rem) {
     grid-template-columns: 1fr;
-    .img {
-      width: 350px;
-    }
   }
   @media (max-width: 31.25rem) {
     width: 100%;
