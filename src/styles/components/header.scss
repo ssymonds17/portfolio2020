@@ -1,0 +1,72 @@
+@import '../variables.scss';
+
+header {
+ height: 5rem;
+ position: fixed;
+ top: 0;
+ width: calc(100% - 10%);
+ z-index: 1;
+ background-color: $off-white;
+ .inner-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 5rem;
+  width: 100%;
+  .logo {
+   button {
+   position: relative;
+   z-index: 2;
+   text-decoration: none;
+   letter-spacing: 0.1rem;
+   text-transform: uppercase;
+   font-size: 0.75rem;
+   font-weight: 700;
+   border: none;
+   cursor: pointer;
+   background-color: transparent;
+   &:focus {
+    outline: none;
+   }
+  }
+ }
+  .navigation {
+   nav {
+    button {
+     overflow: hidden;
+     padding: 0 0 0.25rem;
+     height: 1em;
+     margin: 0 1.25rem;
+     text-decoration: none;
+     letter-spacing: 0.1rem;
+     text-transform: uppercase;
+     font-size: 0.75rem;
+     border: none;
+     cursor: pointer;
+     color: black;
+     background-color: transparent;
+     padding: 0;
+     &:last-child {
+      margin-right: 0;
+     }
+     &:focus {
+      outline: none;
+     }
+     &:hover {
+      font-weight: 700;
+     }
+     // span {
+     //  position: relative;
+     //  display: inline-block;
+     // }
+     // span::before {
+     //  position: absolute;
+     //  top: 100%;
+     //  content: attr(data-hover);
+     //  font-weight: 700;
+     // }
+    }
+   }
+  }
+ }
+}

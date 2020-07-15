@@ -1,0 +1,18 @@
+[
+ {
+  "key": "pokedex",
+  "projectName": "Pokedex",
+  "image": "../images/pokedex-app.png",
+  "description": "Pokedex application developed using both JQuery and Bootstrap framework. Users can sift through Pokemon data loaded from an external API and dispay key details.",
+  "githubLink": "https://github.com/ssymonds17/jquery-pokedex",
+  "applicationLink": "https://ssymonds17.github.io/jquery-pokedex/"
+ },
+ {
+  "key": "movie",
+  "projectName": "Movie Reference Application",
+  "image": "../images/movie-reference-app.png",
+  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+  "githubLink": "https://github.com/ssymonds17/worldwide-movie-reference",
+  "applicationLink": "https://worldwide-movie-reference.herokuapp.com/client/"
+ }
+]

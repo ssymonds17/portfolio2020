@@ -1,0 +1,29 @@
+@import '../variables.scss';
+
+.footer {
+ margin-top: 5rem;
+ height: 6.25rem;
+ position: absolute;
+ bottom: 0;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ min-width: 100%;
+ text-transform: uppercase;
+ letter-spacing: 0.06rem;
+ font-weight: 400;
+ background-color: $sea-green;
+ // background-color: darkgreen;
+ color: black;
+ white-space: nowrap;
+ .footer-left-content {
+  padding-left: 2rem;
+ }
+ .footer-right-content {
+  padding-right: 2rem;
+ }
+ .footer-icon {
+  cursor: pointer;
+  margin: 0 1.8rem;
+ }
+}

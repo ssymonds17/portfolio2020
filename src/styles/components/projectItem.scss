@@ -1,0 +1,83 @@
+@import '../variables.scss';
+
+.project-item {
+ border-radius: 1.2rem;
+ background-color: yellowgreen;
+ h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 0.075rem;
+  margin-top: 0;
+ }
+ p {
+  font-size: 1rem;
+  line-height: 2rem;
+  font-weight: 350;
+ }
+ .project-item-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 1rem;
+  .project-item-image-container {
+   padding: 5% 5% 5% 5%;
+   border-top-left-radius: 1rem;
+   border-top-right-radius: 1rem;
+   background: $sea-green;
+   .project-item-image {
+    border-radius: 1rem;
+    opacity: 1;
+    height: 200px;
+   }
+  }
+  .project-item-text-container {
+   height: 100%;
+   padding: 0 5% 5% 5%;
+   border-bottom-left-radius: 1rem;
+   border-bottom-right-radius: 1rem;
+   background: $sea-green;
+   .project-item-lower {
+    height: 100%;
+    border-radius: 1rem;
+    opacity: 1;
+    background-color: $off-white;
+    .project-item-lower-wrapper {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     height: calc(100%-2.75rem);
+     padding: 2rem 2rem 2rem 2rem;
+     border-radius: 1rem;
+     .project-item-button-wrapper {
+      display: flex;
+      justify-content: center;
+      .project-item-button {
+       border: 0.02rem solid $dark-grey;
+       color: black;
+       letter-spacing: 0.1rem;
+       text-transform: uppercase;
+       border-radius: 0.3rem;
+       padding: 0.5rem;
+       margin-right: 1.25rem;
+       text-decoration: none;
+       opacity: 1;
+       transition: 0.3s;
+       font-size: 0.75rem;
+       padding: 2% 2% 2% 2%;
+       background-color: $sea-green;
+      }
+      .project-item-button:hover {
+       opacity: 0.7;
+       cursor: pointer;
+      }
+      .project-item-button:focus {
+       outline: 0;
+      }
+     }
+    }
+   }
+  }
+ }
+}
