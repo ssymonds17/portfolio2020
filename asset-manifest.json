@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio2020/static/css/main.0a7ac428.chunk.css",
-    "main.js": "/portfolio2020/static/js/main.0d862d65.chunk.js",
-    "main.js.map": "/portfolio2020/static/js/main.0d862d65.chunk.js.map",
+    "main.css": "/portfolio2020/static/css/main.0f46f9a3.chunk.css",
+    "main.js": "/portfolio2020/static/js/main.d8db5bc0.chunk.js",
+    "main.js.map": "/portfolio2020/static/js/main.d8db5bc0.chunk.js.map",
     "runtime-main.js": "/portfolio2020/static/js/runtime-main.26a4754f.js",
     "runtime-main.js.map": "/portfolio2020/static/js/runtime-main.26a4754f.js.map",
     "static/js/2.650b80be.chunk.js": "/portfolio2020/static/js/2.650b80be.chunk.js",
     "static/js/2.650b80be.chunk.js.map": "/portfolio2020/static/js/2.650b80be.chunk.js.map",
     "index.html": "/portfolio2020/index.html",
-    "precache-manifest.aecb04b21475de7e46bb63c7ac017dfc.js": "/portfolio2020/precache-manifest.aecb04b21475de7e46bb63c7ac017dfc.js",
+    "precache-manifest.00ae6ee88125f6aaf331de53008b9ab7.js": "/portfolio2020/precache-manifest.00ae6ee88125f6aaf331de53008b9ab7.js",
     "service-worker.js": "/portfolio2020/service-worker.js",
-    "static/css/main.0a7ac428.chunk.css.map": "/portfolio2020/static/css/main.0a7ac428.chunk.css.map",
+    "static/css/main.0f46f9a3.chunk.css.map": "/portfolio2020/static/css/main.0f46f9a3.chunk.css.map",
     "static/js/2.650b80be.chunk.js.LICENSE.txt": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt",
     "static/media/email_icon.svg": "/portfolio2020/static/media/email_icon.2324eaf6.svg",
     "static/media/github_icon.svg": "/portfolio2020/static/media/github_icon.e37fa66f.svg",
@@ -18,12 +18,14 @@
     "static/media/medium_icon.svg": "/portfolio2020/static/media/medium_icon.8e3a0fdc.svg",
     "static/media/movie-reference-app.png": "/portfolio2020/static/media/movie-reference-app.279fc7ee.png",
     "static/media/pokedex-app.png": "/portfolio2020/static/media/pokedex-app.2ec5c3e7.png",
+    "static/media/quiz-app.png": "/portfolio2020/static/media/quiz-app.f896a5bc.png",
+    "static/media/todo-list-app.png": "/portfolio2020/static/media/todo-list-app.b06a56e1.png",
     "static/media/twitter_icon.svg": "/portfolio2020/static/media/twitter_icon.f02969df.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.26a4754f.js",
     "static/js/2.650b80be.chunk.js",
-    "static/css/main.0a7ac428.chunk.css",
-    "static/js/main.0d862d65.chunk.js"
+    "static/css/main.0f46f9a3.chunk.css",
+    "static/js/main.d8db5bc0.chunk.js"
   ]
 }

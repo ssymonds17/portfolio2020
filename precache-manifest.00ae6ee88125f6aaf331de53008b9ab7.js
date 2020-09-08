@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "360e1e66ece19856a2a039100446c00a",
+    "revision": "b752cd0c09b60bcd80b422e78ce76590",
     "url": "/portfolio2020/index.html"
   },
   {
-    "revision": "3928594c018f9f802589",
-    "url": "/portfolio2020/static/css/main.0a7ac428.chunk.css"
+    "revision": "381e8f735447b7136c32",
+    "url": "/portfolio2020/static/css/main.0f46f9a3.chunk.css"
   },
   {
     "revision": "244878dcdaa99f8b3f63",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3928594c018f9f802589",
-    "url": "/portfolio2020/static/js/main.0d862d65.chunk.js"
+    "revision": "381e8f735447b7136c32",
+    "url": "/portfolio2020/static/js/main.d8db5bc0.chunk.js"
   },
   {
     "revision": "6ad797aa38266a95762d",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2ec5c3e7671771be3a36f35bab379214",
     "url": "/portfolio2020/static/media/pokedex-app.2ec5c3e7.png"
+  },
+  {
+    "revision": "f896a5bccdb7307f0a2d96c6c3155ae7",
+    "url": "/portfolio2020/static/media/quiz-app.f896a5bc.png"
+  },
+  {
+    "revision": "b06a56e10450bf02abde3d2f550584e6",
+    "url": "/portfolio2020/static/media/todo-list-app.b06a56e1.png"
   },
   {
     "revision": "f02969dfcff317a9276b8c7e303d517b",
