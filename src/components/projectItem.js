@@ -5,7 +5,9 @@ const ProjectItem = ({ project }) => {
 
  let imagePath = {
   pokedex: require('../images/pokedex-app.png'),
-  movie: require('../images/movie-reference-app.png')
+  movie: require('../images/movie-reference-app.png'),
+  todo: require('../images/todo-list-app.png'),
+  quiz: require('../images/quiz-app.png')
  }
 
  let file = imagePath[project.key];
@@ -25,7 +27,9 @@ const ProjectItem = ({ project }) => {
        </div>
        <div className="project-item-button-wrapper">
         <a href={project.githubLink} target="_blank" rel="noopener noreferrer" className="project-item-button">Code</a>
-        <a href={project.applicationLink} target="_blank" rel="noopener noreferrer" className="project-item-button">Application</a>
+        {project.applicationLink != null &&
+         <a href={project.applicationLink} target="_blank" rel="noopener noreferrer" className="project-item-button">Application</a>
+        }
        </div>
       </div>
      </div>

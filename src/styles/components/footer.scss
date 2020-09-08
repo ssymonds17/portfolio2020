@@ -13,7 +13,6 @@
  letter-spacing: 0.06rem;
  font-weight: 400;
  background-color: $sea-green;
- // background-color: darkgreen;
  color: black;
  white-space: nowrap;
  .footer-left-content {
@@ -21,6 +20,9 @@
  }
  .footer-right-content {
   padding-right: 2rem;
+  @media (max-width: 714px) {
+   display: none;
+   }
  }
  .footer-icon {
   cursor: pointer;

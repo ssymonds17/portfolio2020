@@ -14,41 +14,45 @@
    .banner-text {
      display: inline-flex;
      white-space: nowrap;
-     font-size: 3vw;
+     font-size: 5vw;
      text-transform: uppercase;
      letter-spacing: 1rem;
      font-weight: 300;
      color: black;
      position: relative;
      top: 50%;
-     // @media (max-width: 1060px) {
-     //   font-size: 2.6rem;
-     //   letter-spacing: 0.8rem;
-     // }
-     // @media (max-width: 93.75rem) {
-     //   font-size: 2.8rem;
-     //   letter-spacing: 1rem;
-     // }
-     // @media (max-width: 78.125rem) {
-     //   font-size: 2.6rem;
-     //   letter-spacing: 1rem;
-     // }
-     @media (max-width: 62.5rem) {
-       font-size: 2.6vw;
+     @media (min-width: 1065px) {
+       font-size: 3rem;
        letter-spacing: 0.8rem;
      }
-     @media (max-width: 50rem) {
-       font-size: 1.4rem;
-       letter-spacing: 0.6rem;
-     }
-     // @media (max-width: 31.25rem) {
-     //   font-size: 1.7rem;
-     //   letter-spacing: 0.25rem;
-     // }
-     // @media (max-width: 15.625rem) {
-     //   font-size: 0.8rem;
-     //   letter-spacing: 0.25rem;
-     // }
+    //  @media (min-width: 800px) {
+    //    font-size: 2.8rem;
+    //    letter-spacing: 1rem;
+    //  }
+    //  @media (min-width: 700rem) {
+    //    font-size: 3.2rem;
+    //    letter-spacing: 1rem;
+    //  }
+    //  @media (max-width: 62.5rem) {
+    //    font-size: 2.6rem;
+    //    letter-spacing: 0.8rem;
+    //  }
+    //  @media (max-width: 350px) {
+    //   font-size: 2.6rem;
+    //   letter-spacing: 0.8rem;
+    // }
+    //  @media (max-width: 50rem) {
+    //    font-size: 2.4rem;
+    //    letter-spacing: 0.6rem;
+    //  }
+    //  @media (max-width: 30rem) {
+    //    font-size: 2.2rem;
+    //    letter-spacing: 0.25rem;
+    //  }
+    //  @media (max-width: 400px) {
+    //    font-size: 1.2rem;
+    //    letter-spacing: 0.25rem;
+    //  }
    }
    .full-stack {
     margin-right: 1%;

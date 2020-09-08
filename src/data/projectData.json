@@ -14,5 +14,19 @@
   "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
   "githubLink": "https://github.com/ssymonds17/worldwide-movie-reference",
   "applicationLink": "https://worldwide-movie-reference.herokuapp.com/client/"
+ },
+ {
+  "key": "todo",
+  "projectName": "Todo List",
+  "image": "../images/todo-list-app.png",
+  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+  "githubLink": "https://github.com/ssymonds17/todo-application"
+ },
+ {
+  "key": "quiz",
+  "projectName": "Quiz Application",
+  "image": "../images/quiz-app.png",
+  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+  "githubLink": "https://github.com/ssymonds17/my-quiz-app"
  }
 ]

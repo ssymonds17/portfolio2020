@@ -4,7 +4,7 @@ header {
  height: 5rem;
  position: fixed;
  top: 0;
- width: calc(100% - 10%);
+ width: calc(100% - 11%);
  z-index: 1;
  background-color: $off-white;
  .inner-header {
@@ -28,6 +28,9 @@ header {
    &:focus {
     outline: none;
    }
+   @media (max-width: 1065px) {
+    font-size: 1.1rem;
+  }
   }
  }
   .navigation {
@@ -55,16 +58,9 @@ header {
      &:hover {
       font-weight: 700;
      }
-     // span {
-     //  position: relative;
-     //  display: inline-block;
-     // }
-     // span::before {
-     //  position: absolute;
-     //  top: 100%;
-     //  content: attr(data-hover);
-     //  font-weight: 700;
-     // }
+     @media (max-width: 1065px) {
+      font-size: 1.1rem;
+    }  
     }
    }
   }
