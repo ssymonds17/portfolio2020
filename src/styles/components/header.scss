@@ -16,7 +16,6 @@ header {
   .logo {
    button {
    position: relative;
-   z-index: 2;
    text-decoration: none;
    letter-spacing: 0.1rem;
    text-transform: uppercase;
@@ -72,8 +71,8 @@ header {
  @media screen and (max-width: 650px) {
 
    nav {
-    padding: .5rem;
-    background: lightgrey;
+    padding-right: 4rem;
+    padding-top: 1rem;
     position: fixed;
     flex: 1;
     top: 0;
@@ -91,11 +90,20 @@ header {
    .hamburger {
      display: flex;
      transform: rotate(90deg);
+     font-size: 45px;
    }
 
-   #menu-toggle:checked ~ .nav-links {
+   #menu-toggle:checked~.nav-links {
      display: flex;
      flex-direction: column;
+     align-items: flex-start;
+     position: relative;
+     background: $off-white;
+     border-radius: 10px;
+     button {
+       margin-top: 10px;
+       margin-bottom: 10px;
+     }
    }
  }
 }

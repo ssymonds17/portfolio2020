@@ -38,7 +38,7 @@ const Header = () => {
       <nav>
        {/* This checkbox will give us the toggle behavior, it will be hidden, but functional */}
        <input type="checkbox" id="menu-toggle" />
-       <label for="menu-toggle" className="hamburger">|||</label>
+       <label htmlFor="menu-toggle" className="hamburger">|||</label>
        <div className="nav-links">
         <button onClick={scrollToProjects}><span>projects</span></button>
         <button onClick={scrollToAbout}><span>about</span></button>

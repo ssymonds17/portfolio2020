@@ -19,14 +19,14 @@
   "key": "todo",
   "projectName": "Todo List",
   "image": "../images/todo-list-app.png",
-  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+  "description": "A todo-list application developed with the Vue.js framework. Users can add, delete, and edit a list of todos.",
   "githubLink": "https://github.com/ssymonds17/todo-application"
  },
  {
   "key": "quiz",
   "projectName": "Quiz Application",
   "image": "../images/quiz-app.png",
-  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+  "description": "This simple application was developed using the Angular framework and written with Typsecript. The application presents a preset list of quizzes to undertake and displays the users results upon completion.",
   "githubLink": "https://github.com/ssymonds17/my-quiz-app"
  }
 ]
