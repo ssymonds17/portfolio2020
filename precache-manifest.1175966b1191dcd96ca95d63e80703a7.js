@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3b5ad2e2bbb6a542f495b254383452b",
+    "revision": "c76058b58caf5648bfd9bde04cc2aceb",
     "url": "/portfolio2020/index.html"
   },
   {
-    "revision": "eaa18b1efd29d7380eb8",
+    "revision": "f990d6527b9aa61bbcb5",
     "url": "/portfolio2020/static/css/main.89db7a06.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eaa18b1efd29d7380eb8",
-    "url": "/portfolio2020/static/js/main.778559b5.chunk.js"
+    "revision": "f990d6527b9aa61bbcb5",
+    "url": "/portfolio2020/static/js/main.9598df25.chunk.js"
   },
   {
     "revision": "6ad797aa38266a95762d",
@@ -40,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/media/medium_icon.8e3a0fdc.svg"
   },
   {
+    "revision": "a849f9bf202a9cb35600522688f27b9c",
+    "url": "/portfolio2020/static/media/meetup-app.a849f9bf.png"
+  },
+  {
     "revision": "279fc7eead3d57a0e488eaa7ac3f5ba1",
     "url": "/portfolio2020/static/media/movie-reference-app.279fc7ee.png"
+  },
+  {
+    "revision": "6d816acfbb3897c56c929b91125d9a37",
+    "url": "/portfolio2020/static/media/nba-project.6d816acf.png"
   },
   {
     "revision": "2ec5c3e7671771be3a36f35bab379214",
