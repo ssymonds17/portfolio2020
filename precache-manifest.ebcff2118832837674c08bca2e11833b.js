@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7c94520b0feccc9f0fba3e366d42e06",
+    "revision": "092ff964dd44d38d5f7b06a06c0ee053",
     "url": "/portfolio2020/index.html"
   },
   {
-    "revision": "30d30e175e837ce92e1d",
+    "revision": "c3a986de35ced625fad9",
     "url": "/portfolio2020/static/css/main.89db7a06.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30d30e175e837ce92e1d",
-    "url": "/portfolio2020/static/js/main.abcad6a3.chunk.js"
+    "revision": "c3a986de35ced625fad9",
+    "url": "/portfolio2020/static/js/main.f0d30ad6.chunk.js"
   },
   {
     "revision": "6ad797aa38266a95762d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "279fc7eead3d57a0e488eaa7ac3f5ba1",
     "url": "/portfolio2020/static/media/movie-reference-app.279fc7ee.png"
+  },
+  {
+    "revision": "359998dbf11564d6728e015168eaf771",
+    "url": "/portfolio2020/static/media/nba-draft.359998db.png"
   },
   {
     "revision": "6d816acfbb3897c56c929b91125d9a37",
