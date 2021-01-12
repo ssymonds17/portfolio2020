@@ -1,32 +1,56 @@
 [
- {
-  "key": "pokedex",
-  "projectName": "Pokedex",
-  "image": "../images/pokedex-app.png",
-  "description": "Pokedex application developed using both JQuery and Bootstrap framework. Users can sift through Pokemon data loaded from an external API and dispay key details.",
-  "githubLink": "https://github.com/ssymonds17/jquery-pokedex",
-  "applicationLink": "https://ssymonds17.github.io/jquery-pokedex/"
- },
- {
-  "key": "movie",
-  "projectName": "Movie Reference Application",
-  "image": "../images/movie-reference-app.png",
-  "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
-  "githubLink": "https://github.com/ssymonds17/worldwide-movie-reference",
-  "applicationLink": "https://worldwide-movie-reference.herokuapp.com/client/"
- },
- {
-  "key": "todo",
-  "projectName": "Todo List",
-  "image": "../images/todo-list-app.png",
-  "description": "A todo-list application developed with the Vue.js framework. Users can add, delete, and edit a list of todos.",
-  "githubLink": "https://github.com/ssymonds17/todo-application"
- },
- {
-  "key": "quiz",
-  "projectName": "Quiz Application",
-  "image": "../images/quiz-app.png",
-  "description": "This simple application was developed using the Angular framework and written with Typsecript. The application presents a preset list of quizzes to undertake and displays the users results upon completion.",
-  "githubLink": "https://github.com/ssymonds17/my-quiz-app"
- }
+  {
+    "key": "nba",
+    "projectName": "NBA Value Reference",
+    "image": "../images/nba-project.png",
+    "description": "Basketball reference website developed as an independent project that displays statistics for any player to ever play in the NBA and showcases a new metric created by myself. The site was developed using the MERN stack.",
+    "githubLink": "https://github.com/ssymonds17/nba-value-project",
+    "applicationLink": "https://nba-value-reference.herokuapp.com/"
+  },
+  {
+    "key": "draft",
+    "projectName": "NBA Draft App",
+    "image": "../images/nba-draft.png",
+    "description": "React application that allows the user to draft their own team and compete against nine opponents.",
+    "githubLink": "https://github.com/ssymonds17/nba-draft-app",
+    "applicationLink": "https://nba-draft-app.netlify.app/"
+  },
+  {
+    "key": "pokedex",
+    "projectName": "Pokedex",
+    "image": "../images/pokedex-app.png",
+    "description": "Pokedex application developed using both JQuery and Bootstrap framework. Users can sift through Pokemon data loaded from an external API and dispay key details.",
+    "githubLink": "https://github.com/ssymonds17/jquery-pokedex",
+    "applicationLink": "https://ssymonds17.github.io/jquery-pokedex/"
+  },
+  {
+    "key": "movie",
+    "projectName": "Movie Reference Application",
+    "image": "../images/movie-reference-app.png",
+    "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
+    "githubLink": "https://github.com/ssymonds17/worldwide-movie-reference",
+    "applicationLink": "https://worldwide-movie-reference.herokuapp.com/client/"
+  },
+  {
+    "key": "meetup",
+    "projectName": "Meetup Application",
+    "image": "../images/meetup-app.png",
+    "description": "An events application built using the API from Meetup.com. The development process involved integration testing and end-to-end testing using Enzyme and Puppeteer respectively.",
+    "githubLink": "https://github.com/ssymonds17/meetup",
+    "applicationLink": "https://ssymonds17.github.io/meetup/"
+  },
+  {
+    "key": "todo",
+    "projectName": "Todo List",
+    "image": "../images/todo-list-app.png",
+    "description": "A todo-list application developed with the Vue.js framework. Users can add, delete, and edit a list of todos.",
+    "githubLink": "https://github.com/ssymonds17/todo-application"
+  },
+  {
+    "key": "quiz",
+    "projectName": "Quiz Application",
+    "image": "../images/quiz-app.png",
+    "description": "This simple application was developed using the Angular framework and written with Typsecript. The application presents a preset list of quizzes to undertake and displays the users results upon completion.",
+    "githubLink": "https://github.com/ssymonds17/my-quiz-app"
+  }
 ]

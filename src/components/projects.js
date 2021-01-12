@@ -10,9 +10,10 @@ const Projects = () => {
         <div className="projects-header">
           <h3>Projects</h3>
           <p>
-            A sample of the projects I have completed
+            A sample of the projects I completed
             while doing CareerFoundry's full stack web
-            development course.
+            development course as well as independent projects
+            carried out upon completion of the course.
           </p>
         </div>
         <div className="projects-grid">
