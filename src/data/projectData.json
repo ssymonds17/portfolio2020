@@ -1,11 +1,11 @@
 [
   {
     "key": "nba",
-    "projectName": "NBA Value Reference",
-    "image": "../images/nba-project.png",
+    "projectName": "BBall Value Index",
+    "image": "../images/bball-index.png",
     "description": "Basketball reference website developed as an independent project that displays statistics for any player to ever play in the NBA and showcases a new metric created by myself. The site was developed using the MERN stack.",
-    "githubLink": "https://github.com/ssymonds17/nba-value-project",
-    "applicationLink": "https://nba-value-reference.herokuapp.com/"
+    "githubLink": "https://github.com/ssymonds17/bball-value-client",
+    "applicationLink": "https://bball-value-index.herokuapp.com/"
   },
   {
     "key": "draft",
@@ -16,20 +16,20 @@
     "applicationLink": "https://nba-draft-app.netlify.app/"
   },
   {
+    "key": "store",
+    "projectName": "E-Commerce Application",
+    "image": "../images/fantastic-beasts.png",
+    "description": "An E-Commerce application where users can register an account, choose products to add to their carts and make purchases. Once purchases have been completed, previous orders will be displayed on their user page. This application was developed with the PERN stack.",
+    "githubLink": "https://github.com/ssymonds17/fantastic-beasts-client",
+    "applicationLink": "https://fantastic-beasts-client.herokuapp.com"
+  },
+  {
     "key": "pokedex",
     "projectName": "Pokedex",
     "image": "../images/pokedex-app.png",
     "description": "Pokedex application developed using both JQuery and Bootstrap framework. Users can sift through Pokemon data loaded from an external API and dispay key details.",
     "githubLink": "https://github.com/ssymonds17/jquery-pokedex",
     "applicationLink": "https://ssymonds17.github.io/jquery-pokedex/"
-  },
-  {
-    "key": "movie",
-    "projectName": "Movie Reference Application",
-    "image": "../images/movie-reference-app.png",
-    "description": "A movie reference style application where movies, and their details, can be searched for. Users are able to register an account, log in, and create a list of favourites and amend personal information. This application was developed with the MERN stack.",
-    "githubLink": "https://github.com/ssymonds17/worldwide-movie-reference",
-    "applicationLink": "https://worldwide-movie-reference.herokuapp.com/client/"
   },
   {
     "key": "meetup",

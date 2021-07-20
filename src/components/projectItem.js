@@ -3,10 +3,10 @@ import '../styles/components/projectItem.scss';
 
 const ProjectItem = ({ project }) => {
   let imagePath = {
-    nba: require('../images/nba-project.png'),
+    nba: require('../images/bball-index.png'),
     draft: require('../images/nba-draft.png'),
     pokedex: require('../images/pokedex-app.png'),
-    movie: require('../images/movie-reference-app.png'),
+    store: require('../images/fantastic-beasts.png'),
     meetup: require('../images/meetup-app.png'),
     todo: require('../images/todo-list-app.png'),
     quiz: require('../images/quiz-app.png')
