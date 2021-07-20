@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "092ff964dd44d38d5f7b06a06c0ee053",
+    "revision": "14047bb17ea7e4761c6f9a3f9371e99d",
     "url": "/portfolio2020/index.html"
   },
   {
-    "revision": "c3a986de35ced625fad9",
-    "url": "/portfolio2020/static/css/main.89db7a06.chunk.css"
+    "revision": "4b44a96148abbfde77fc",
+    "url": "/portfolio2020/static/css/main.894a5245.chunk.css"
   },
   {
     "revision": "244878dcdaa99f8b3f63",
@@ -16,16 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3a986de35ced625fad9",
-    "url": "/portfolio2020/static/js/main.f0d30ad6.chunk.js"
+    "revision": "4b44a96148abbfde77fc",
+    "url": "/portfolio2020/static/js/main.afd1c485.chunk.js"
   },
   {
     "revision": "6ad797aa38266a95762d",
     "url": "/portfolio2020/static/js/runtime-main.26a4754f.js"
   },
   {
+    "revision": "b4671cc75b71df6a41ff4baa8f32a203",
+    "url": "/portfolio2020/static/media/bball-index.b4671cc7.png"
+  },
+  {
     "revision": "2324eaf61d4a961d32bdaba3f4304201",
     "url": "/portfolio2020/static/media/email_icon.2324eaf6.svg"
+  },
+  {
+    "revision": "e0d624fe35dd726775cf7184176851c3",
+    "url": "/portfolio2020/static/media/fantastic-beasts.e0d624fe.png"
   },
   {
     "revision": "e37fa66f0ba2d6d7afec8546c35cbf43",
@@ -44,16 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/media/meetup-app.a849f9bf.png"
   },
   {
-    "revision": "279fc7eead3d57a0e488eaa7ac3f5ba1",
-    "url": "/portfolio2020/static/media/movie-reference-app.279fc7ee.png"
-  },
-  {
     "revision": "359998dbf11564d6728e015168eaf771",
     "url": "/portfolio2020/static/media/nba-draft.359998db.png"
-  },
-  {
-    "revision": "6d816acfbb3897c56c929b91125d9a37",
-    "url": "/portfolio2020/static/media/nba-project.6d816acf.png"
   },
   {
     "revision": "2ec5c3e7671771be3a36f35bab379214",
