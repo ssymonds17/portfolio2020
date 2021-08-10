@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14047bb17ea7e4761c6f9a3f9371e99d",
+    "revision": "ab711c1244e6f690aa66ea9311bb1689",
     "url": "/portfolio2020/index.html"
   },
   {
-    "revision": "4b44a96148abbfde77fc",
+    "revision": "a0b415e9d169aaf470a5",
     "url": "/portfolio2020/static/css/main.894a5245.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2020/static/js/2.650b80be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b44a96148abbfde77fc",
-    "url": "/portfolio2020/static/js/main.afd1c485.chunk.js"
+    "revision": "a0b415e9d169aaf470a5",
+    "url": "/portfolio2020/static/js/main.63cc915b.chunk.js"
   },
   {
     "revision": "6ad797aa38266a95762d",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e0d624fe35dd726775cf7184176851c3",
     "url": "/portfolio2020/static/media/fantastic-beasts.e0d624fe.png"
+  },
+  {
+    "revision": "2c0b3e813b1458f904ef01e6b7ae8dc6",
+    "url": "/portfolio2020/static/media/gazetteer.2c0b3e81.png"
   },
   {
     "revision": "e37fa66f0ba2d6d7afec8546c35cbf43",
