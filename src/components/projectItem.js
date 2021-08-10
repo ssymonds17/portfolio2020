@@ -3,6 +3,7 @@ import '../styles/components/projectItem.scss';
 
 const ProjectItem = ({ project }) => {
   let imagePath = {
+    gazetteer: require('../images/gazetteer.png'),
     nba: require('../images/bball-index.png'),
     draft: require('../images/nba-draft.png'),
     pokedex: require('../images/pokedex-app.png'),
@@ -28,14 +29,16 @@ const ProjectItem = ({ project }) => {
                 <p>{project.description}</p>
               </div>
               <div className='project-item-button-wrapper'>
-                <a
-                  href={project.githubLink}
-                  target='_blank'
-                  rel='noopener noreferrer'
-                  className='project-item-button'
-                >
-                  Code
-                </a>
+                {project.githubLink != null && (
+                  <a
+                    href={project.githubLink}
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='project-item-button'
+                  >
+                    Code
+                  </a>
+                )}
                 {project.applicationLink != null && (
                   <a
                     href={project.applicationLink}

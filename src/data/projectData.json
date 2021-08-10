@@ -1,5 +1,12 @@
 [
   {
+    "key": "gazetteer",
+    "projectName": "The Gazetteer",
+    "image": "../images/gazetteer.png",
+    "description": "Map application built using Leaflet, PHP and several third party APIs to display country, city, earthquake, and weather data.",
+    "applicationLink": "https://samuelsymonds.co.uk/gazetteer"
+  },
+  {
     "key": "nba",
     "projectName": "BBall Value Index",
     "image": "../images/bball-index.png",
